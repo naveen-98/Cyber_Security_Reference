@@ -61,11 +61,17 @@ Welcome to the Cyber Security Reference Guide! This repository serves as a compr
 
 6. **[Exploit-Db](https://www.exploit-db.com/)**
    - A database of exploits, shellcode, and security articles.
+  
+7. **[RedLogicX](https://redlogicx.com)**
+   - For up-to-date cybersecurity news and practical sessions/activities.
 
 ## Learning Platforms
 
 1. **[TryHackMe](https://tryhackme.com/why-subscribe)**
    - An interactive platform for learning cybersecurity through your browser.
+  
+2. **[Hack The Box](https://www.hackthebox.com/)**
+   - A platform to test and improve your penetration testing skills through challenges and virtual labs.
 
 ---
 
